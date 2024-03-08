@@ -1,0 +1,16 @@
+customer_id,first_name,last_name,email,phone
+1,John,Doe,john.doe@email.com,123-456-7890
+2,Jane,Smith,jane.smith@email.com,987-654-3210
+3,Michael,Johnson,michael.j@email.com,456-789-0123
+4,Emily,Williams,emily.w@email.com,789-012-3456
+5,Robert,Anderson,robert.a@email.com,234-567-8901
+6,Olivia,Miller,olivia.m@email.com,567-890-1234
+7,William,Brown,william.b@email.com,890-123-4567
+8,Sophia,Davis,sophia.d@email.com,345-678-9012
+9,Alexander,Clark,alexander.c@email.com,678-901-2345
+10,Emma,Moore,emma.m@email.com,901-234-5678
+11,David,Hall,david.h@email.com,432-109-8765
+12,Grace,Martin,grace.m@email.com,109-876-5432
+13,James,Wright,james.w@email.com,876-543-2109
+14,Ava,Adams,ava.a@email.com,543-210-9876
+15,Liam,White,liam.w@email.com,210-987-6543
